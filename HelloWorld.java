@@ -5,7 +5,9 @@ public class HelloWorld{
 	System.out.println("Hello");
 	
 	// calculate varible a + b 10 + 5
-	int a = 10, b = 5;
+	int a = 10, b = 5, c;
+	c = a + b;
+	System.out.println("a + b = " + c);
    }
 
 }
