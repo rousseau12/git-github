@@ -11,6 +11,7 @@ public class HelloWorld{
 
 	System.out.println("Development branch is ready"); // comment with the date after opening
 	System.out.println("branch IT updated by pulling from master branch");
+	System.out.println("Edited from IT branch");
    }
 
 }
